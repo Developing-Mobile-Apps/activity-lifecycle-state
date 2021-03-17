@@ -12,11 +12,11 @@
 
 ## App Screenshots Landscape
 
-### <img src="./initial_screen_land.png" width=300 />
+### <img src="./initial_screen_land.png" width=600 />
 
-### <img src="./after_add_item_land.png" width=300 />
+### <img src="./after_add_item_land.png" width=600 />
 
-### <img src="./add_item_land.png" width=300 />
+### <img src="./add_item_land.png" width=600 />
 
 
 ## App Running GIF
