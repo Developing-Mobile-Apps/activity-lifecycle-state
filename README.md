@@ -10,4 +10,4 @@
 
 ## App Running GIF
 
-### <img src="./activity_lifecycle_state.gif" width=300 /> 
+### <img src="./activity_lifecycle_state.gif" width=600 /> 
