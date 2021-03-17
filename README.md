@@ -14,10 +14,10 @@
 
 ## App Running GIF
 
-### <img src="./activity_lifecycle_state.gif" width=600 />
+### <img src="./activity_lifecycle_state.gif" width=300 />
 
 
 ## Activity Lifecycle Callback Logs
 
-### <img src="./lifecycle_callback_log.png" width=300 />
+### <img src="./lifecycle_callback_log.png"/>
 
