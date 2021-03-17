@@ -21,4 +21,4 @@
 
 ## App Running GIF
 
-### <img src="./shopping_list.png" width=600 />
+### <img src="./shopping_list.gif" width=600 />
